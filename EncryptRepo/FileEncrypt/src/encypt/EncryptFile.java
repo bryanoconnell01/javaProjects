@@ -15,6 +15,7 @@ import javax.swing.JFileChooser;
  * @author boconnell
  */
 public class EncryptFile extends javax.swing.JFrame {
+    
 
     
     FileIntegrityStatus EncryptKeyFile = null;
